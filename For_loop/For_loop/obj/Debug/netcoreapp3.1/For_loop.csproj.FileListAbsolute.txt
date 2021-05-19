@@ -1,0 +1,13 @@
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.csprojAssemblyReference.cache
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.AssemblyInfoInputs.cache
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.AssemblyInfo.cs
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.csproj.CoreCompileInputs.cache
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\bin\Debug\netcoreapp3.1\For_loop.exe
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\bin\Debug\netcoreapp3.1\For_loop.deps.json
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\bin\Debug\netcoreapp3.1\For_loop.runtimeconfig.json
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\bin\Debug\netcoreapp3.1\For_loop.runtimeconfig.dev.json
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\bin\Debug\netcoreapp3.1\For_loop.dll
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\bin\Debug\netcoreapp3.1\For_loop.pdb
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.dll
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.pdb
+C:\Users\Taron\Desktop\VivaroIntership\For_loop\For_loop\obj\Debug\netcoreapp3.1\For_loop.genruntimeconfig.cache
