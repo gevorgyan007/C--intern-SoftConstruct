@@ -1,0 +1,13 @@
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\bin\Debug\netcoreapp3.1\Task_2B.exe
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\bin\Debug\netcoreapp3.1\Task_2B.deps.json
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\bin\Debug\netcoreapp3.1\Task_2B.runtimeconfig.json
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\bin\Debug\netcoreapp3.1\Task_2B.runtimeconfig.dev.json
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\bin\Debug\netcoreapp3.1\Task_2B.dll
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\bin\Debug\netcoreapp3.1\Task_2B.pdb
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.csprojAssemblyReference.cache
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.AssemblyInfoInputs.cache
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.AssemblyInfo.cs
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.csproj.CoreCompileInputs.cache
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.dll
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.pdb
+C:\Users\Taron\Desktop\VivaroIntership\Arrays\Task1_B\obj\Debug\netcoreapp3.1\Task_2B.genruntimeconfig.cache
